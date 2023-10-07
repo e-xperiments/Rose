@@ -12,7 +12,7 @@ Tool to generate high quality synthetic data for llm fintuning, rlhf and (maybe)
 
 ## Citation
 
-```rust
+```python
 @article{xu2023wizardlm,
   title={Wizardlm: Empowering large language models to follow complex instructions},
   author={Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin},
